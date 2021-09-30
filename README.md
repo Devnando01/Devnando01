@@ -16,7 +16,7 @@
 
 #### A little more about me
 ```javascript
-const badri = {
+const devnando = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Python", "HTML", "CSS", "C++"],
   askMeAbout: ["web dev", "frontend dev", "python", "flask"],
