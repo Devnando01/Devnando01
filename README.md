@@ -28,21 +28,17 @@ const badri = {
 ```
 
 #### My GitHub Data :octocat:
-> 🏆 420+ Contributions in the Year 2021
+> 🏆 12+ Contributions in the Year 2021
  > 
-> 📜 400+ Commits on GitHub
+> 📜 56+ Commits on GitHub
  > 
-> 🔑 200+ Contribution in Private Repos
+> 🔑 33+ Contribution in Private Repos
  > 
 
 #### Popular Projects
-<a href="https://github.com/MrBlueBird2/to-do-list-flask">
+<a href="https://github.com/DevNando01/to-do-list-flask">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
-</a>    
-<a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
 </a>
 
 #### Trophies
