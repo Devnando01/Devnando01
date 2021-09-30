@@ -7,7 +7,7 @@
 <p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m @MrBlueBird2</li>
+  <li>👋 Hi, I’m @DevNando01</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
   <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
   <li>💼 I'm a Front end developer at Crediometer.</li>
