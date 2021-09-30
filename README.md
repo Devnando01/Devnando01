@@ -60,7 +60,7 @@ const badri = {
 </p>
 
 #### Contribution Graph
-[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=MrBlueBird2&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
+[![DevNando01 github activity graph](https://activity-graph.herokuapp.com/graph?username=MrBlueBird2&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
 <!---
 MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -90,5 +90,5 @@ Atom                     1 Hour             ████████████
 Linux Ubuntu             14 hrs 2 mins      █████████████████████████   100.0%
 ```
 ------
-Credit: [MrBlueBird2](https://github.com/MrBlueBird2)
-Last Edited on: 25/09/2021.
+Credit: [DevNando01](https://github.com/DevNando01)
+Last Edited on: 30/09/2021.
