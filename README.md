@@ -46,7 +46,7 @@ const devnando = {
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrBlueBird2&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
 
 #### Contribution Graph
-[![DevNando01 github activity graph](https://activity-graph.herokuapp.com/graph?username=MrBlueBird2&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
+[![DevNando01 github activity graph](https://activity-graph.herokuapp.com/graph?username=DevNando01&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
 <!---
 MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
