@@ -11,7 +11,7 @@
   <li>❤️ I love Creating websites and Programming in Python.</li>
   <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
   <li>💼 I'm a Front end developer at Crediometer.</li>
-  <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
+  <li>🧐 Portfolio Website, https://portfolio.nandodev.works</li>
 </ul>
 
 #### A little more about me
