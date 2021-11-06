@@ -8,9 +8,9 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m @DevNando01</li>
-  <li>❤️ I love Creating websites and Programming in Python.</li>
+  <li>❤️ I love Creating websites and Programming in JS.</li>
   <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
-  <li>💼 I'm a Front end developer at Crediometer.</li>
+  <li>💼 I'm a Server game developer.</li>
   <li>🧐 Portfolio Website, https://portfolio.nandodev.works</li>
 </ul>
 
